@@ -9,7 +9,7 @@ A logic-based, combinatorial number-placement puzzle.<br>
 <li>Personal Laptop (P.C): A personal computer can be defined as an end-point of connection which will connect with the computer network<br>
 <li>Software/Coding Platform: We used GDB, an online compiler to build the sudoku game.<br>
   
-<h3>Theory<\h3><br><h5>
+<h3>Theory<br><h5>
 Sudoku is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid contain all of the numbers from 1 to 9.<br>
 
 Backtracking can be defined as a general algorithmic technique that considers searching every possible combination in order to solve a computational problem. It is an algorithmic technique for solving problems recursively by trying to build a solution incrementally, one piece at a time, removing those solutions that fail to satisfy the constraints of the problem at any point in time (by time, here, is referred to the time elapsed till reaching any level of the search tree).  Backtracking can also be said as an improvement to the brute force approach. So basically, the idea behind the backtracking technique is to search for a solution to a problem among all the available options. <br>
